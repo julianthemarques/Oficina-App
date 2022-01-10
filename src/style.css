@@ -18,3 +18,11 @@ body{
     max-width: 1024px;
     max-height: 627px;
 }
+
+.erro{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #FDEDED;
+    z-index: 1;
+}
