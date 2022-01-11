@@ -4,13 +4,13 @@
 
 <h1> Práticas de programação envolvidas</h1>
 
-- [X] 📖 Consumo de API
-  - [X] 📖 Utilização do fetch.
-  - [X] 📖 Identificação de erro.
-- [X] 📖 Material UI
-  - [X] 📖 Estilização mensagem de erro
-  - [X] 📖 Criação da tabela
-  - [X] 📖 Criação do Modal
+- [X]  Consumo de API
+  - [X]  Utilização do fetch.
+  - [X]  Identificação de erro.
+- [X]  Material UI
+  - [X]  Estilização mensagem de erro
+  - [X]  Criação da tabela
+  - [X]  Criação do Modal
 
 
 # <h1>Pré-requisitos</h1>
@@ -50,3 +50,9 @@ Iniciar Servidor / Site:
 </p>
 
 Link do Projeto: <a href="https://github.com/juulmrqs/Oficina-App">https://github.com/juulmrqs/Oficina-App</a> <br>
+
+
+&#10071; Atenção &#10071;
+
+Gostaria de registrar uma pequena dúvida em relação ao projeto desafio, ao escolher em qual plataforma programar esta aplicação, escolhi como base React JS para o feito desta, pois me sinto mais confortável em programar utilizando tal linguagem. Entretando caso tenha sido de extrema importância a utilização do React Native, solicito uma segunda oportunidade em curto período de tempo para replicar o projeto utilizando a ferramenta do Android Studio. Caso a liberdade para criação do projeto venha a ser em React JS, tornei este projeto, responsivo, com ajuda do Material UI. Agradeço pela visita ao projeto, e até logo. 
+  Ass: Juliano Lima Marques.
